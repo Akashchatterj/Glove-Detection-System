@@ -223,39 +223,43 @@ The model shows excellent convergence with steady loss reduction across all metr
 
 ### Sample Validation Predictions
 
-The model was evaluated on the validation set (475 images) during training. Here are some representative examples showing the model's performance:
+The model was evaluated on the validation set (475 images) during training. Below are ground truth labels vs. model predictions:
 
 <div align="center">
 
-| Image 1 | Image 2 | Image 3 |
-|---------|---------|---------|
-| ![Val Sample 1](./validation_samples/val_sample_1.jpg) | ![Val Sample 2](./validation_samples/val_sample_2.jpg) | ![Val Sample 3](./validation_samples/val_sample_3.jpg) |
-| **Detections:** 2 gloved hands | **Detections:** 1 bare hand | **Detections:** 1 gloved, 1 bare |
+**Ground Truth Labels vs. Predictions**
 
-| Image 4 | Image 5 |
-|---------|---------|
-| ![Val Sample 4](./validation_samples/val_sample_4.jpg) | ![Val Sample 5](./validation_samples/val_sample_5.jpg) |
-| **Detections:** 3 gloved hands | **Detections:** 2 bare hands |
+| Ground Truth (Labels) | Model Predictions |
+|----------------------|-------------------|
+| ![Validation Labels](./val_batch1_labels.jpg) | ![Validation Predictions](./val_batch1_pred.jpg) |
 
 </div>
 
-### Validation Set Statistics
-```
-Total Validation Images: 475
-Total Detections: [Add your count]
-Average Detections per Image: [Add your average]
+**Visual Analysis:**
+- ✅ Model accurately predicts both gloved and bare hands
+- ✅ High confidence scores (0.8-0.99) across predictions
+- ✅ Correct localization with tight bounding boxes
+- ✅ Successfully handles multiple hands in same frame
+- ✅ Detects hands in various poses and positions
 
-Detection Breakdown:
-  - Gloved hands: [Add count] ([Add %]%)
-  - Bare hands: [Add count] ([Add %]%)
+### Validation Confusion Matrix
 
-Average Confidence Scores:
-  - Gloved hands: [Add score]
-  - Bare hands: [Add score]
-```
+![Validation Confusion Matrix](./confusion_matrix.png)
+
+**Validation Set Analysis:**
+- ✅ **84% True Positive Rate** for gloves detection
+- ✅ **90% True Positive Rate** for no-gloves detection
+- ⚠️ **19% confusion** between gloves and background
+- ⚠️ **81% confusion** between no-gloves and background
+- ⚠️ **1% misclassification** between gloves and no-gloves
+
+**Key Insights:**
+- Excellent class discrimination (only 1% confusion between classes)
+- Main challenge: Background detection in complex scenes
+- Model highly reliable at distinguishing gloved from bare hands
+- Confidence scores consistently high (0.8-0.99 range)
 
 ---
-
 ## 🧪 Test Set Results
 
 ### Detection Statistics
