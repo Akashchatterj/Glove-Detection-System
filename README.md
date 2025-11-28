@@ -231,7 +231,7 @@ The model was evaluated on the validation set (475 images) during training. Belo
 
 | Ground Truth (Labels) | Model Predictions |
 |----------------------|-------------------|
-| ![Validation Labels](./val_batch1_labels.jpg) | ![Validation Predictions](./val_batch1_pred.jpg) |
+| ![Validation Labels](runs/glove_detection/val/val_batch1_labels.jpg) | ![Validation Predictions](runs/glove_detection/val/val_batch1_pred.jpg) |
 
 </div>
 
@@ -244,7 +244,7 @@ The model was evaluated on the validation set (475 images) during training. Belo
 
 ### Validation Confusion Matrix
 
-![Validation Confusion Matrix](./confusion_matrix.png)
+![Validation Confusion Matrix](runs/glove_detection/val/confusion_matrix.png)
 
 **Validation Set Analysis:**
 - ✅ **84% True Positive Rate** for gloves detection
