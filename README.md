@@ -167,7 +167,7 @@ The model shows excellent convergence with steady loss reduction across all metr
 
 ### Confusion Matrix
 
-![Confusion Matrix](./confusion_matrix.png)
+![Confusion Matrix](runs/glove_detection/exp/confusion_matrix.png)
 
 **Analysis:**
 - ✅ **84% True Positive Rate** for gloves detection
@@ -183,7 +183,7 @@ The model shows excellent convergence with steady loss reduction across all metr
 
 ### F1-Confidence Curve
 
-![F1 Curve](./F1_curve.png)
+![F1 Curve](runs/glove_detection/exp/F1_curve.png)
 
 **Optimal Operating Point:**
 - 🎯 **Best F1-Score:** 0.87 at confidence threshold 0.519
@@ -192,7 +192,7 @@ The model shows excellent convergence with steady loss reduction across all metr
 
 ### Precision-Confidence Curve
 
-![Precision Curve](./P_curve.png)
+![Precision Curve](runs/glove_detection/exp/P_curve.png)
 
 **Analysis:**
 - 🎯 **Perfect Precision (1.00)** achieved at confidence 0.947
@@ -201,7 +201,7 @@ The model shows excellent convergence with steady loss reduction across all metr
 
 ### Precision-Recall Curve
 
-![PR Curve](./PR_curve.png)
+![PR Curve](runs/glove_detection/exp/PR_curve.png)
 
 **Performance:**
 - 🏆 **mAP@0.5:** 0.894 (89.4%)
@@ -210,7 +210,7 @@ The model shows excellent convergence with steady loss reduction across all metr
 
 ### Recall-Confidence Curve
 
-![Recall Curve](./R_curve.png)
+![Recall Curve](runs/glove_detection/exp/R_curve.png)
 
 **Performance:**
 - 🎯 **Recall:** 93% at confidence threshold 0.0
