@@ -219,6 +219,43 @@ The model shows excellent convergence with steady loss reduction across all metr
 
 ---
 
+## 🔍 Validation Results
+
+### Sample Validation Predictions
+
+The model was evaluated on the validation set (475 images) during training. Here are some representative examples showing the model's performance:
+
+<div align="center">
+
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![Val Sample 1](./validation_samples/val_sample_1.jpg) | ![Val Sample 2](./validation_samples/val_sample_2.jpg) | ![Val Sample 3](./validation_samples/val_sample_3.jpg) |
+| **Detections:** 2 gloved hands | **Detections:** 1 bare hand | **Detections:** 1 gloved, 1 bare |
+
+| Image 4 | Image 5 |
+|---------|---------|
+| ![Val Sample 4](./validation_samples/val_sample_4.jpg) | ![Val Sample 5](./validation_samples/val_sample_5.jpg) |
+| **Detections:** 3 gloved hands | **Detections:** 2 bare hands |
+
+</div>
+
+### Validation Set Statistics
+```
+Total Validation Images: 475
+Total Detections: [Add your count]
+Average Detections per Image: [Add your average]
+
+Detection Breakdown:
+  - Gloved hands: [Add count] ([Add %]%)
+  - Bare hands: [Add count] ([Add %]%)
+
+Average Confidence Scores:
+  - Gloved hands: [Add score]
+  - Bare hands: [Add score]
+```
+
+---
+
 ## 🧪 Test Set Results
 
 ### Detection Statistics
