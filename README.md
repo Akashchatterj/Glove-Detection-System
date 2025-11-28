@@ -279,7 +279,18 @@ Average Confidence Scores:
 
 ### Sample Detections
 
-*Note: Add 3-5 sample annotated images in the `output/` folder*
+<div align="center">
+
+### Successful Detections ✅
+
+| Image 1 | Image 2 | Image 3 || Image 4 | Image 5 |
+|---------|---------|---------||---------|---------|
+| ![Test Sample 1](submission/Part_1_Glove_Detection/output/IMG_5719_18-32sec_jpg.rf.f9b6f8cf8ef5990bc8a02df238cdff97.jpg) | ![Test Sample 2](submission/Part_1_Glove_Detection/output/IMG_5719_22-32sec_jpg.rf.5889c2b998391f620359b6eb7fbfceb0.jpg) | ![Test Sample 3](submission/Part_1_Glove_Detection/output/IMG_5720_14-31sec_jpg.rf.4bd9e2c8a5db7e9ae928a94ee5606fd8.jpg) || ![Test Sample 4](submission/Part_1_Glove_Detection/output/IMG_5725_29-32sec_jpg.rf.ab5b5d076407f0c0c9670bd04e412946.jpg) | ![Test Sample 5](submission/Part_1_Glove_Detection/output/ppe_1270_jpg.rf.bae8871f55ec32b7983da77faf7fef89.jpg) |
+
+
+
+
+</div>
 
 ---
 
