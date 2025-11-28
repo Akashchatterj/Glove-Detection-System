@@ -131,7 +131,7 @@ obj: 1.0                  # Object loss gain
 
 The model shows excellent convergence with steady loss reduction across all metrics:
 
-![Training Results](./1764335238069_image.png)
+![Training Results](.runs/glove_detection/exp/results.png)
 
 **Key Observations:**
 - 📉 Steady decrease in all loss functions
