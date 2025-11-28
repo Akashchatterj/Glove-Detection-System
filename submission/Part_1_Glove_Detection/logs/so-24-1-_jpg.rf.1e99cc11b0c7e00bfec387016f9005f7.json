@@ -1,0 +1,55 @@
+{
+  "filename": "so-24-1-_jpg.rf.1e99cc11b0c7e00bfec387016f9005f7.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.821,
+      "bbox": [
+        198,
+        437,
+        240,
+        491
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.441,
+      "bbox": [
+        158,
+        526,
+        189,
+        561
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.353,
+      "bbox": [
+        428,
+        602,
+        451,
+        638
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.326,
+      "bbox": [
+        118,
+        198,
+        145,
+        245
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.311,
+      "bbox": [
+        187,
+        495,
+        207,
+        537
+      ]
+    }
+  ]
+}

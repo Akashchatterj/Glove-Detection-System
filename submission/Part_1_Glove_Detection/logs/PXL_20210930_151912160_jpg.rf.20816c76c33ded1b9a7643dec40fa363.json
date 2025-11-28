@@ -1,0 +1,15 @@
+{
+  "filename": "PXL_20210930_151912160_jpg.rf.20816c76c33ded1b9a7643dec40fa363.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.481,
+      "bbox": [
+        246,
+        229,
+        267,
+        268
+      ]
+    }
+  ]
+}

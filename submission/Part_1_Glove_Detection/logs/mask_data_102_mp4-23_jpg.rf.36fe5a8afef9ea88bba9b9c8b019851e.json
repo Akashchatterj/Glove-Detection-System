@@ -1,0 +1,65 @@
+{
+  "filename": "mask_data_102_mp4-23_jpg.rf.36fe5a8afef9ea88bba9b9c8b019851e.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.605,
+      "bbox": [
+        199,
+        357,
+        219,
+        396
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.496,
+      "bbox": [
+        187,
+        342,
+        210,
+        368
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.373,
+      "bbox": [
+        513,
+        279,
+        530,
+        310
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.363,
+      "bbox": [
+        516,
+        333,
+        533,
+        367
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.29,
+      "bbox": [
+        206,
+        399,
+        229,
+        441
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.287,
+      "bbox": [
+        480,
+        268,
+        500,
+        297
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "filename": "miss_class119_jpg.rf.22f343f1004ccb2f220ddb8f36b98fb4.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.761,
+      "bbox": [
+        0,
+        503,
+        44,
+        577
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.719,
+      "bbox": [
+        233,
+        445,
+        268,
+        502
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.352,
+      "bbox": [
+        52,
+        418,
+        80,
+        468
+      ]
+    }
+  ]
+}

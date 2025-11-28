@@ -1,0 +1,55 @@
+{
+  "filename": "miss_class127_jpg.rf.a1d059d170afb8f16cd655896ef78216.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.873,
+      "bbox": [
+        22,
+        515,
+        66,
+        578
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.831,
+      "bbox": [
+        500,
+        562,
+        544,
+        626
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.68,
+      "bbox": [
+        374,
+        578,
+        415,
+        639
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.514,
+      "bbox": [
+        150,
+        603,
+        188,
+        640
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.279,
+      "bbox": [
+        473,
+        484,
+        514,
+        548
+      ]
+    }
+  ]
+}

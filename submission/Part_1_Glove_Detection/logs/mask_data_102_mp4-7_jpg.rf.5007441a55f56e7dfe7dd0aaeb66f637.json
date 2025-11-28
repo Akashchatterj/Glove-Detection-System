@@ -1,0 +1,25 @@
+{
+  "filename": "mask_data_102_mp4-7_jpg.rf.5007441a55f56e7dfe7dd0aaeb66f637.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.612,
+      "bbox": [
+        490,
+        299,
+        509,
+        331
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.593,
+      "bbox": [
+        220,
+        310,
+        245,
+        347
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "filename": "r167_jpg.rf.36f9376d6bd7b2a115ee6a79e4c857e0.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.911,
+      "bbox": [
+        533,
+        463,
+        601,
+        542
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.829,
+      "bbox": [
+        376,
+        349,
+        458,
+        420
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.767,
+      "bbox": [
+        239,
+        448,
+        296,
+        524
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.653,
+      "bbox": [
+        22,
+        444,
+        77,
+        527
+      ]
+    }
+  ]
+}

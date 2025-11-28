@@ -1,0 +1,55 @@
+{
+  "filename": "rival-lf-glove_black-front_01_jpg.rf.226d6a681bc154ab1e22ab000a040a5c.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.547,
+      "bbox": [
+        278,
+        1,
+        640,
+        97
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.374,
+      "bbox": [
+        264,
+        46,
+        596,
+        475
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.367,
+      "bbox": [
+        19,
+        563,
+        390,
+        639
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.327,
+      "bbox": [
+        435,
+        236,
+        627,
+        536
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.303,
+      "bbox": [
+        0,
+        0,
+        78,
+        299
+      ]
+    }
+  ]
+}

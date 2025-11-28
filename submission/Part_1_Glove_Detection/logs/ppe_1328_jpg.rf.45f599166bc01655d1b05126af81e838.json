@@ -1,0 +1,55 @@
+{
+  "filename": "ppe_1328_jpg.rf.45f599166bc01655d1b05126af81e838.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.767,
+      "bbox": [
+        218,
+        421,
+        232,
+        450
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.745,
+      "bbox": [
+        171,
+        430,
+        190,
+        467
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.548,
+      "bbox": [
+        289,
+        373,
+        311,
+        403
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.522,
+      "bbox": [
+        357,
+        365,
+        376,
+        404
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.365,
+      "bbox": [
+        0,
+        569,
+        11,
+        611
+      ]
+    }
+  ]
+}

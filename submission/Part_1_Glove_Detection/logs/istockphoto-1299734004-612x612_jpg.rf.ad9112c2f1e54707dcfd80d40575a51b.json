@@ -1,0 +1,55 @@
+{
+  "filename": "istockphoto-1299734004-612x612_jpg.rf.ad9112c2f1e54707dcfd80d40575a51b.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.815,
+      "bbox": [
+        278,
+        429,
+        326,
+        489
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.721,
+      "bbox": [
+        0,
+        189,
+        42,
+        270
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.669,
+      "bbox": [
+        447,
+        407,
+        498,
+        466
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.415,
+      "bbox": [
+        405,
+        426,
+        450,
+        503
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.41,
+      "bbox": [
+        341,
+        550,
+        382,
+        623
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "filename": "Tan0500500_jpg.rf.3e52b72286f833afa67324279c5b910a.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.556,
+      "bbox": [
+        355,
+        22,
+        504,
+        186
+      ]
+    }
+  ]
+}

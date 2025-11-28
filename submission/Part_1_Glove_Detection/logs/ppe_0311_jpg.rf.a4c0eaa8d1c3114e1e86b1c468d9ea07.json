@@ -1,0 +1,25 @@
+{
+  "filename": "ppe_0311_jpg.rf.a4c0eaa8d1c3114e1e86b1c468d9ea07.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.349,
+      "bbox": [
+        6,
+        0,
+        397,
+        175
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.325,
+      "bbox": [
+        385,
+        298,
+        505,
+        633
+      ]
+    }
+  ]
+}

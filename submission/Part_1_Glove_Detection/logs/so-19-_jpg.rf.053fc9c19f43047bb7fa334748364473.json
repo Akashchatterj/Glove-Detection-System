@@ -1,0 +1,15 @@
+{
+  "filename": "so-19-_jpg.rf.053fc9c19f43047bb7fa334748364473.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.749,
+      "bbox": [
+        300,
+        557,
+        335,
+        611
+      ]
+    }
+  ]
+}

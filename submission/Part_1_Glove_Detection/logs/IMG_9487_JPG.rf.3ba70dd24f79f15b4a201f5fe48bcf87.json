@@ -1,0 +1,35 @@
+{
+  "filename": "IMG_9487_JPG.rf.3ba70dd24f79f15b4a201f5fe48bcf87.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.828,
+      "bbox": [
+        250,
+        435,
+        269,
+        460
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.809,
+      "bbox": [
+        414,
+        424,
+        493,
+        469
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.563,
+      "bbox": [
+        341,
+        433,
+        358,
+        465
+      ]
+    }
+  ]
+}

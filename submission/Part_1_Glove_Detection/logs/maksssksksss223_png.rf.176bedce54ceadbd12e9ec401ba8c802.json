@@ -1,0 +1,65 @@
+{
+  "filename": "maksssksksss223_png.rf.176bedce54ceadbd12e9ec401ba8c802.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.459,
+      "bbox": [
+        337,
+        400,
+        354,
+        433
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.378,
+      "bbox": [
+        534,
+        307,
+        559,
+        349
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.359,
+      "bbox": [
+        104,
+        566,
+        141,
+        637
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.355,
+      "bbox": [
+        262,
+        287,
+        306,
+        358
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.353,
+      "bbox": [
+        29,
+        250,
+        60,
+        300
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.302,
+      "bbox": [
+        278,
+        397,
+        302,
+        444
+      ]
+    }
+  ]
+}

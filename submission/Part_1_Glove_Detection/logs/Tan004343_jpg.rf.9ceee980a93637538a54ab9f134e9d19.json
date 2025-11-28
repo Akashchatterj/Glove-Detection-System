@@ -1,0 +1,25 @@
+{
+  "filename": "Tan004343_jpg.rf.9ceee980a93637538a54ab9f134e9d19.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.728,
+      "bbox": [
+        398,
+        199,
+        461,
+        246
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.618,
+      "bbox": [
+        456,
+        206,
+        544,
+        262
+      ]
+    }
+  ]
+}

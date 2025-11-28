@@ -1,0 +1,35 @@
+{
+  "filename": "Nein7025_jpg.rf.654cc4054792b486fe599afaa851c74c.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.688,
+      "bbox": [
+        430,
+        374,
+        517,
+        497
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.639,
+      "bbox": [
+        167,
+        361,
+        253,
+        478
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.44,
+      "bbox": [
+        358,
+        429,
+        424,
+        558
+      ]
+    }
+  ]
+}

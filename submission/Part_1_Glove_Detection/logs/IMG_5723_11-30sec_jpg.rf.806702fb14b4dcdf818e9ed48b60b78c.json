@@ -1,0 +1,25 @@
+{
+  "filename": "IMG_5723_11-30sec_jpg.rf.806702fb14b4dcdf818e9ed48b60b78c.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.936,
+      "bbox": [
+        215,
+        270,
+        269,
+        332
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.881,
+      "bbox": [
+        324,
+        353,
+        374,
+        413
+      ]
+    }
+  ]
+}

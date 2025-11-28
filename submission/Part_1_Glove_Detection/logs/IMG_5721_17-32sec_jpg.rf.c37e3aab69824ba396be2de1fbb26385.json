@@ -1,0 +1,25 @@
+{
+  "filename": "IMG_5721_17-32sec_jpg.rf.c37e3aab69824ba396be2de1fbb26385.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.924,
+      "bbox": [
+        240,
+        215,
+        292,
+        277
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.896,
+      "bbox": [
+        394,
+        249,
+        448,
+        290
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "filename": "maksssksksss49_png.rf.7b536ae432ba06e08df859d8bf29c18c.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.795,
+      "bbox": [
+        534,
+        425,
+        579,
+        488
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.727,
+      "bbox": [
+        84,
+        365,
+        119,
+        424
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.665,
+      "bbox": [
+        562,
+        323,
+        594,
+        378
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.602,
+      "bbox": [
+        2,
+        381,
+        37,
+        440
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.591,
+      "bbox": [
+        173,
+        20,
+        201,
+        61
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.568,
+      "bbox": [
+        144,
+        379,
+        174,
+        431
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.522,
+      "bbox": [
+        97,
+        19,
+        123,
+        65
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.504,
+      "bbox": [
+        141,
+        40,
+        162,
+        75
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.483,
+      "bbox": [
+        304,
+        608,
+        342,
+        640
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.464,
+      "bbox": [
+        355,
+        500,
+        392,
+        583
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.44,
+      "bbox": [
+        405,
+        120,
+        438,
+        167
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.336,
+      "bbox": [
+        237,
+        245,
+        265,
+        294
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.313,
+      "bbox": [
+        433,
+        224,
+        468,
+        288
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.256,
+      "bbox": [
+        464,
+        123,
+        496,
+        169
+      ]
+    }
+  ]
+}

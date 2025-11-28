@@ -1,0 +1,55 @@
+{
+  "filename": "stock-video-medium-slow-motion-shot-group-multi-ethnic-polyethylene-factory-workers_jpg.rf.8373d18307bd689e9a78b76d4e3a7d4c.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.721,
+      "bbox": [
+        139,
+        335,
+        182,
+        398
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.716,
+      "bbox": [
+        162,
+        476,
+        204,
+        545
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.694,
+      "bbox": [
+        369,
+        289,
+        418,
+        374
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.629,
+      "bbox": [
+        109,
+        301,
+        155,
+        358
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.516,
+      "bbox": [
+        245,
+        459,
+        287,
+        547
+      ]
+    }
+  ]
+}

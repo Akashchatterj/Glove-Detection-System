@@ -1,0 +1,55 @@
+{
+  "filename": "miss_class14_jpg.rf.e794479c4d7a0a9c99731c5c86850b4c.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.831,
+      "bbox": [
+        500,
+        562,
+        544,
+        626
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.772,
+      "bbox": [
+        97,
+        524,
+        131,
+        591
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.7,
+      "bbox": [
+        190,
+        527,
+        229,
+        615
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.686,
+      "bbox": [
+        374,
+        578,
+        414,
+        639
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.28,
+      "bbox": [
+        473,
+        484,
+        514,
+        549
+      ]
+    }
+  ]
+}

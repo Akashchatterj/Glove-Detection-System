@@ -1,0 +1,25 @@
+{
+  "filename": "rival-lf-glove_black-front_01_jpg.rf.da970a38092dcd596e08c34daa1a751b.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.361,
+      "bbox": [
+        244,
+        42,
+        614,
+        436
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.294,
+      "bbox": [
+        25,
+        93,
+        417,
+        312
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "filename": "Movie-on-10-31-22-at-10_08-AM_mov-15_jpg.rf.e9783d47ff1ed128e7855741a4ce800b.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.364,
+      "bbox": [
+        307,
+        188,
+        385,
+        344
+      ]
+    }
+  ]
+}

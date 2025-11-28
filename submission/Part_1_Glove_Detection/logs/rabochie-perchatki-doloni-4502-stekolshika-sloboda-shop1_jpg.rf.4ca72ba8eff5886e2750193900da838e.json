@@ -1,0 +1,25 @@
+{
+  "filename": "rabochie-perchatki-doloni-4502-stekolshika-sloboda-shop1_jpg.rf.4ca72ba8eff5886e2750193900da838e.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.51,
+      "bbox": [
+        153,
+        1,
+        457,
+        356
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.358,
+      "bbox": [
+        165,
+        341,
+        467,
+        629
+      ]
+    }
+  ]
+}

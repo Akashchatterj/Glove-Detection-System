@@ -1,0 +1,75 @@
+{
+  "filename": "ppe_0771_jpg.rf.384179069805dd21a50ad7b53127f562.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.835,
+      "bbox": [
+        458,
+        416,
+        484,
+        446
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.823,
+      "bbox": [
+        372,
+        367,
+        390,
+        395
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.807,
+      "bbox": [
+        188,
+        397,
+        201,
+        422
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.775,
+      "bbox": [
+        232,
+        386,
+        245,
+        411
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.643,
+      "bbox": [
+        393,
+        389,
+        405,
+        423
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.637,
+      "bbox": [
+        295,
+        354,
+        314,
+        385
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.503,
+      "bbox": [
+        337,
+        369,
+        350,
+        396
+      ]
+    }
+  ]
+}

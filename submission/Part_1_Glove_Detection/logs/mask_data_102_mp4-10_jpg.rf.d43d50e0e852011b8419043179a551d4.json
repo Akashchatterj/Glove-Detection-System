@@ -1,0 +1,45 @@
+{
+  "filename": "mask_data_102_mp4-10_jpg.rf.d43d50e0e852011b8419043179a551d4.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.72,
+      "bbox": [
+        487,
+        306,
+        510,
+        340
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.518,
+      "bbox": [
+        165,
+        332,
+        188,
+        367
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.493,
+      "bbox": [
+        220,
+        305,
+        246,
+        342
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.337,
+      "bbox": [
+        484,
+        287,
+        503,
+        326
+      ]
+    }
+  ]
+}

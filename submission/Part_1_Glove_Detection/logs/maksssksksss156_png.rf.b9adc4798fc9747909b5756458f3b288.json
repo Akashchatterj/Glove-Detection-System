@@ -1,0 +1,75 @@
+{
+  "filename": "maksssksksss156_png.rf.b9adc4798fc9747909b5756458f3b288.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.726,
+      "bbox": [
+        481,
+        229,
+        523,
+        290
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.654,
+      "bbox": [
+        95,
+        267,
+        135,
+        337
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.592,
+      "bbox": [
+        581,
+        336,
+        625,
+        414
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.591,
+      "bbox": [
+        150,
+        263,
+        185,
+        317
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.539,
+      "bbox": [
+        322,
+        230,
+        358,
+        295
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.479,
+      "bbox": [
+        223,
+        400,
+        262,
+        463
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.3,
+      "bbox": [
+        340,
+        493,
+        373,
+        550
+      ]
+    }
+  ]
+}

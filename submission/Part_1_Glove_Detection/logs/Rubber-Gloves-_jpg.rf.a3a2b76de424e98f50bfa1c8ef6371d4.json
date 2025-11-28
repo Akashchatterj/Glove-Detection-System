@@ -1,0 +1,25 @@
+{
+  "filename": "Rubber-Gloves-_jpg.rf.a3a2b76de424e98f50bfa1c8ef6371d4.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.509,
+      "bbox": [
+        22,
+        216,
+        295,
+        640
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.41,
+      "bbox": [
+        314,
+        206,
+        616,
+        640
+      ]
+    }
+  ]
+}

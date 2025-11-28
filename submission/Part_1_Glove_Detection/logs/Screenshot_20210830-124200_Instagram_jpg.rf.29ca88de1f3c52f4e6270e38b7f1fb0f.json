@@ -1,0 +1,15 @@
+{
+  "filename": "Screenshot_20210830-124200_Instagram_jpg.rf.29ca88de1f3c52f4e6270e38b7f1fb0f.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.869,
+      "bbox": [
+        457,
+        146,
+        595,
+        352
+      ]
+    }
+  ]
+}

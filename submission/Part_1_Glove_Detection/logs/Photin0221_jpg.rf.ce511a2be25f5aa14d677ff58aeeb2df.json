@@ -1,0 +1,15 @@
+{
+  "filename": "Photin0221_jpg.rf.ce511a2be25f5aa14d677ff58aeeb2df.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.276,
+      "bbox": [
+        411,
+        99,
+        590,
+        278
+      ]
+    }
+  ]
+}

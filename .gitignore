@@ -1,0 +1,8 @@
+Glove.v2i.yolov5pytorch/
+*.zip
+*.rar
+*.7z
+*.tar
+*.h5
+*.pt
+*.onnx

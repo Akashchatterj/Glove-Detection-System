@@ -1,0 +1,45 @@
+{
+  "filename": "stock-video-medium-slowmo-two-male-factory-workers-hard-hats-uniforms-discussing_jpg.rf.0fa5df450e6daf003af6d377ddda730f.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.549,
+      "bbox": [
+        197,
+        445,
+        274,
+        547
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.536,
+      "bbox": [
+        314,
+        389,
+        387,
+        515
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.401,
+      "bbox": [
+        0,
+        379,
+        32,
+        497
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.349,
+      "bbox": [
+        263,
+        348,
+        309,
+        434
+      ]
+    }
+  ]
+}

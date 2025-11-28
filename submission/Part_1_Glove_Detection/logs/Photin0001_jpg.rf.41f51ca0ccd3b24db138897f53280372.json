@@ -1,0 +1,25 @@
+{
+  "filename": "Photin0001_jpg.rf.41f51ca0ccd3b24db138897f53280372.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.661,
+      "bbox": [
+        453,
+        307,
+        624,
+        454
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.618,
+      "bbox": [
+        467,
+        1,
+        576,
+        141
+      ]
+    }
+  ]
+}
