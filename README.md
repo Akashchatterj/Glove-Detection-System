@@ -25,7 +25,7 @@ This project implements a real-time object detection system to ensure workplace 
 ### Key Features
 
 ✨ **Real-time Detection** - Process video streams at high FPS  
-📊 **High Accuracy** - 89.4% mAP@0.5 on test set  
+📊 **High Accuracy** - 89.4% mAP@0.5(correctly detects and classifies hands ~9 out of 10 times) on test set  
 ⚡ **Fast Inference** - ~15-30ms per image on GPU  
 📝 **JSON Logging** - Structured detection data for compliance tracking  
 🎨 **Visual Annotations** - Color-coded bounding boxes with confidence scores  
